@@ -1,5 +1,8 @@
 # Release notes · money.mcbflow.com
 
+## 1.6.1 · 2026-10-15
+- Fixed: loading demo data while signed in to sync could remove synced transactions from your account. Demo data now needs you to sign out first, and sync pauses safely while demo data is showing.
+
 ## 1.6 · 2026-10-15
 - New: optional sync across devices. Data → Sync across devices signs in with a free mcbflow.com account; budgets, balances, transactions, subscriptions, goals and settings then match on every device you sign in on.
 - Transactions sync month by month, so long histories stay quick.

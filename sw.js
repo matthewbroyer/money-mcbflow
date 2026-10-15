@@ -1,7 +1,7 @@
 /* money.mcbflow.com service worker.
    Network-first for the app's own files, so updates arrive on the next visit; the cache is only the offline fallback.
    It never touches your data (that lives in localStorage) and ignores every request that is not a same-origin GET. */
-const VERSION = 'money-v1.6';   // bump on every release so installed users get the new files
+const VERSION = 'money-v1.6.1';   // bump on every release so installed users get the new files
 const SHELL = ['./', 'index.html', 'manifest.json', 'favicon.ico', 'favicon.svg', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'mb-suite-topbar.css', 'mb-sync.js', 'vendor/supabase.js'];
 const INDEX = new URL('index.html', self.registration.scope).href;
 
