@@ -1,6 +1,6 @@
 # Attributions
 
-mbmoney.online is one HTML file (plus a manifest, a service worker and a few PNG images made for it) with no third-party code, fonts, images, icons or data.
+Money (money.mcbflow.com) is one HTML file (plus the shared mb-sync.js and mb-files.js helpers) (plus a manifest, a service worker and a few PNG images made for it) with no third-party code, fonts, images, icons or data.
 
 - Code: written for this project. It uses only standard browser features.
 - Fonts: none loaded. The page uses the visitor's system fonts.
