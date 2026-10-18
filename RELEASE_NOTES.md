@@ -1,5 +1,29 @@
 # Release notes · money.mcbflow.com
 
+## 1.9 · 2026-10-17
+- The More menu on phones lists Settings, your other pages, Help and What’s new, in the same order as every mcbflow.com app.
+- What’s new opens in one small window, from the footer, Settings › About, More and Search.
+- Help is reorganised: Getting started, then short answers grouped by topic, ending with Install the app and Your data & privacy. Privacy and Terms now have their own pages.
+- Search finds your transactions first (picking one opens it in the list), then subscriptions, goals, pages and help. Press / or Ctrl+K, or tap Search.
+- Demo data is now called Sample data. A short note at the top of Home has one button to remove it, with Undo. The Home greeting never uses the sample person’s name.
+- Deleting a transaction, subscription, goal, note, a month’s plan or balances happens right away, with Undo in the message at the bottom. No more “Are you sure?” boxes.
+- Clearer file names: money-backup-2026-10-17.json, money-transactions-2026-10-17.csv, money-backup-2026-10-17.zip. Exports work even when the app is empty.
+- The Essential Banking Checklist moved from Settings to the Plan page.
+- Settings says “Changes save as you make them.” and has the same Install section as the other apps.
+- Home banner: “Your money at a glance”, with today’s date.
+- Empty Transactions and Subscriptions pages say what to do next. Edit, delete and refresh buttons use outline icons.
+- Your data, backups and settings are unchanged.
+
+## 1.8 · 2026-10-17
+- Clear all data now asks you to type DELETE, the same in every mcbflow.com app. The same box offers Save a backup first.
+- Phones: a green Add button in the middle of the bottom bar takes you straight to adding transactions. Subscriptions moved into More.
+- Tidier Home: the check-in status and the Simple | Full switch share one row, "Data last updated" sits under it, then Monthly check-in. On computers, + Add transactions sits next to it.
+- Clear demo data on Home asks with its own short box, and you can undo it right after.
+- Account pop-up spacing fixed.
+- The welcome banner art is no longer cut off on phones, and the banner keeps one height.
+- A very long subscription name or bank match no longer makes the Subscriptions page scroll sideways on phones.
+- Your data, backups and settings are unchanged.
+
 ## 1.7 · 2026-10-16
 - New Settings page, in the same order as the other mcbflow.com apps: Appearance (light or dark, Simple or Full Dashboard), Account & sync, Money settings (your details), the Essential Banking Checklist, Backup & data, Install and About. On phones it is the first item under More.
 - New Help page with getting set up, quick answers, release notes, privacy and terms (they used to sit at the bottom of Settings).
